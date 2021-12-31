@@ -1,7 +1,6 @@
+@INIT
 
 Feature: authentification au site
-        @INIT
-
         Scenario: s'autehtifier avec succes
 
             Given J'accede a la page "Bureau Valee"
