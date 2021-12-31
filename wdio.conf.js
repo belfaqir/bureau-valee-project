@@ -64,7 +64,7 @@ exports.config = {
                 "--disable-dev-shm-usage",
                 "--disable-gpu",
                 "--window-position=0,0",
-                "--window-size=1200,700"
+                "--window-size=1280,870"
             ]
         },
     },

@@ -21,12 +21,15 @@ export default (locateur) => {
             timeout: 10000
         }); */
   attendreSecondes(3);
-
+  
   //Recuperation de l'element
   if (element.isDisplayed()) {
-    console.log("element  displayed, waiting click :" + locateur2);
+    console.log("element  displayed, waiting click :" + locateur);
     element.click();
-  } else {
-    console.log("element to click is not displayed :" + locateur2);
+  } 
+  else
+  {
+    console.log("element to click is not displayed :" + locateur);
+
   }
 };
