@@ -5,24 +5,24 @@ Feature: authentification au site
         Scenario: s'autehtifier avec succes
 
             Given J'accede a la page "Bureau Valee"
-             When J'ajoute le texte "78125" dans le champ "CodePostal"
-              And Je clique sur "BoutonConfirmer"
-              And Je clique sur "RefuserCookies"
+             When J'ajoute le texte "78125" dans le champ "CodePostal" si existe
+              And Je clique sur "BoutonConfirmer" si existe
+              And Je clique sur "RefuserCookies" si existe
               #And J'attends "3" secondes
 
-              And Je clique sur "LienIdentifierVous"
+              And Je clique sur "LienIdentifierVous" si existe
               And Je verifie que je suis sur la page "Login"
-             When J'ajoute le texte "imad.belfaqir@hardis-group.com" dans le champ "EmailLogin"
-             When J'ajoute le texte "Hardis-group" dans le champ "PasswordLogin"
+             When J'ajoute le texte "imad.belfaqir@hardis-group.com" dans le champ "EmailLogin" si existe
+             When J'ajoute le texte "Hardis-group" dans le champ "PasswordLogin" si existe
               And Je scroll jusqu'a l'element "MeConnecter"
-              And Je clique sur "MeConnecter"
+              And Je clique sur "MeConnecter" si existe
              # And J'attends "3" secondes
               And Je verifie que je suis sur la page "Account"
               And Je verifie que l'element "MenuTableauDeBord" est present
               And Je verifie que "MenuTableauDeBord" contient le texte "Mon tableau de bord"
               And Je verifie que l'element "MenuSeDeconnecter" est present
               #And J'attends "3" secondes
-              And Je clique sur "MenuSeDeconnecter"
+              And Je clique sur "MenuSeDeconnecter" si existe
               And J'attends "6" secondes
               And Je verifie que je suis sur la page "Bureau Valee"
         
