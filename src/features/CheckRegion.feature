@@ -1,3 +1,4 @@
+@INIT
 Feature: Check le magasin le plus proche
 
         Scenario: remplir le CP et refuser les cookies
