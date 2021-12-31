@@ -1,5 +1,6 @@
 
 Feature: authentification au site
+        @INIT
 
         Scenario: s'autehtifier avec succes
 
@@ -25,7 +26,6 @@ Feature: authentification au site
               And J'attends "6" secondes
               And Je verifie que je suis sur la page "Bureau Valee"
         
-        @INIT
         Scenario Outline: ne pas s'authentifier suivant les cas d'erreurs
 
             

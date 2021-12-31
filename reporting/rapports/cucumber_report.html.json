@@ -1,0 +1,1832 @@
+[
+  {
+    "keyword": "Feature",
+    "type": "feature",
+    "description": "",
+    "line": 0,
+    "name": "authentification au site",
+    "uri": "Can not be determined",
+    "tags": [],
+    "elements": [
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "ne pas s'authentifier suivant les cas d'erreurs",
+        "tags": [
+          {
+            "name": "@INIT",
+            "astNodeId": "35"
+          }
+        ],
+        "id": "authentification-au-site;ne-pas-s'authentifier-suivant-les-cas-d'erreurs",
+        "line": 0,
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 9000000
+            },
+            "line": 170,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "J'accede a la page \"Bureau Valee\"",
+            "result": {
+              "status": "passed",
+              "duration": 3206000000
+            },
+            "line": 55,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3768000000
+            },
+            "line": 56,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"BoutonConfirmer\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3114000000
+            },
+            "line": 57,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"RefuserCookies\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3528000000
+            },
+            "line": 58,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"LienIdentifierVous\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3147000000
+            },
+            "line": 59,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je verifie que je suis sur la page \"Login\"",
+            "result": {
+              "status": "passed",
+              "duration": 875000000
+            },
+            "line": 60,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"NonValidUserName\" dans le champ \"EmailLogin\"",
+            "result": {
+              "status": "passed",
+              "duration": 489000000
+            },
+            "line": 61,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"fakePass\" dans le champ \"PasswordLogin\"",
+            "result": {
+              "status": "passed",
+              "duration": 356000000
+            },
+            "line": 62,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"NotifMail\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3027000000
+            },
+            "line": 63,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je scroll jusqu'a l'element \"MeConnecter\"",
+            "result": {
+              "status": "passed",
+              "duration": 53000000
+            },
+            "line": 64,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"MeConnecter\"",
+            "result": {
+              "status": "passed",
+              "duration": 1303000000
+            },
+            "line": 65,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "Je verifie la presence du texte \"Veuillez renseigner une adresse email valide\"",
+            "result": {
+              "status": "passed",
+              "duration": 57000000
+            },
+            "line": 66,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            },
+            "line": 183,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ]
+      },
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "ne pas s'authentifier suivant les cas d'erreurs",
+        "tags": [
+          {
+            "name": "@INIT",
+            "astNodeId": "35"
+          }
+        ],
+        "id": "authentification-au-site;ne-pas-s'authentifier-suivant-les-cas-d'erreurs",
+        "line": 0,
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            },
+            "line": 185,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "J'accede a la page \"Bureau Valee\"",
+            "result": {
+              "status": "passed",
+              "duration": 1935000000
+            },
+            "line": 68,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3280000000
+            },
+            "line": 69,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"BoutonConfirmer\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3031000000
+            },
+            "line": 70,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"RefuserCookies\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3028000000
+            },
+            "line": 71,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"LienIdentifierVous\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3092000000
+            },
+            "line": 72,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je verifie que je suis sur la page \"Login\"",
+            "result": {
+              "status": "passed",
+              "duration": 863000000
+            },
+            "line": 73,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"fakeUserName@yo.com\" dans le champ \"EmailLogin\"",
+            "result": {
+              "status": "passed",
+              "duration": 546000000
+            },
+            "line": 74,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"fakePass\" dans le champ \"PasswordLogin\"",
+            "result": {
+              "status": "passed",
+              "duration": 353000000
+            },
+            "line": 75,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"NotifMail\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3051000000
+            },
+            "line": 76,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je scroll jusqu'a l'element \"MeConnecter\"",
+            "result": {
+              "status": "passed",
+              "duration": 17000000
+            },
+            "line": 77,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"MeConnecter\"",
+            "result": {
+              "status": "passed",
+              "duration": 1064000000
+            },
+            "line": 78,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "Je verifie la presence du texte \"Impossible de trouver un compte correspondant à cette adresse e-mail\"",
+            "result": {
+              "status": "passed",
+              "duration": 1495000000
+            },
+            "line": 79,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            },
+            "line": 198,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ]
+      },
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "ne pas s'authentifier suivant les cas d'erreurs",
+        "tags": [
+          {
+            "name": "@INIT",
+            "astNodeId": "35"
+          }
+        ],
+        "id": "authentification-au-site;ne-pas-s'authentifier-suivant-les-cas-d'erreurs",
+        "line": 0,
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 0
+            },
+            "line": 200,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "J'accede a la page \"Bureau Valee\"",
+            "result": {
+              "status": "passed",
+              "duration": 431000000
+            },
+            "line": 81,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3080000000
+            },
+            "line": 82,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"BoutonConfirmer\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3017000000
+            },
+            "line": 83,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"RefuserCookies\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3019000000
+            },
+            "line": 84,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"LienIdentifierVous\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3070000000
+            },
+            "line": 85,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je verifie que je suis sur la page \"Login\"",
+            "result": {
+              "status": "passed",
+              "duration": 659000000
+            },
+            "line": 86,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"fakeUserName23@yo.com\" dans le champ \"EmailLogin\"",
+            "result": {
+              "status": "passed",
+              "duration": 416000000
+            },
+            "line": 87,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"fakePass\" dans le champ \"PasswordLogin\"",
+            "result": {
+              "status": "passed",
+              "duration": 324000000
+            },
+            "line": 88,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"NotifMail\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3051000000
+            },
+            "line": 89,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je scroll jusqu'a l'element \"MeConnecter\"",
+            "result": {
+              "status": "passed",
+              "duration": 15000000
+            },
+            "line": 90,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"MeConnecter\"",
+            "result": {
+              "status": "passed",
+              "duration": 1054000000
+            },
+            "line": 91,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "Je verifie la presence du texte \"Impossible de trouver un compte correspondant à cette adresse e-mail\"",
+            "result": {
+              "status": "passed",
+              "duration": 1462000000
+            },
+            "line": 92,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 0
+            },
+            "line": 213,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ]
+      }
+    ],
+    "id": "authentification-au-site",
+    "metadata": {
+      "browser": {
+        "name": "Chrome Headless",
+        "version": "96.0.4664.110"
+      },
+      "device": "Device name not known",
+      "platform": {
+        "name": "win32",
+        "version": "Version not known"
+      }
+    }
+  },
+  {
+    "keyword": "Feature",
+    "type": "feature",
+    "description": "",
+    "line": 0,
+    "name": "authentification au site",
+    "uri": "Can not be determined",
+    "tags": [],
+    "elements": [
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "ne pas s'authentifier suivant les cas d'erreurs",
+        "tags": [
+          {
+            "name": "@INIT",
+            "astNodeId": "35"
+          }
+        ],
+        "id": "authentification-au-site;ne-pas-s'authentifier-suivant-les-cas-d'erreurs",
+        "line": 0,
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 4000000
+            },
+            "line": 170,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "J'accede a la page \"Bureau Valee\"",
+            "result": {
+              "status": "passed",
+              "duration": 1892000000
+            },
+            "line": 55,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 4388000000
+            },
+            "line": 56,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"BoutonConfirmer\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3163000000
+            },
+            "line": 57,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"RefuserCookies\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3101000000
+            },
+            "line": 58,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"LienIdentifierVous\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3149000000
+            },
+            "line": 59,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je verifie que je suis sur la page \"Login\"",
+            "result": {
+              "status": "passed",
+              "duration": 1015000000
+            },
+            "line": 60,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"NonValidUserName\" dans le champ \"EmailLogin\"",
+            "result": {
+              "status": "passed",
+              "duration": 501000000
+            },
+            "line": 61,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"fakePass\" dans le champ \"PasswordLogin\"",
+            "result": {
+              "status": "passed",
+              "duration": 404000000
+            },
+            "line": 62,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"NotifMail\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3037000000
+            },
+            "line": 63,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je scroll jusqu'a l'element \"MeConnecter\"",
+            "result": {
+              "status": "passed",
+              "duration": 23000000
+            },
+            "line": 64,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"MeConnecter\"",
+            "result": {
+              "status": "passed",
+              "duration": 1145000000
+            },
+            "line": 65,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "Je verifie la presence du texte \"Veuillez renseigner une adresse email valide\"",
+            "result": {
+              "status": "passed",
+              "duration": 32000000
+            },
+            "line": 66,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            },
+            "line": 183,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ]
+      },
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "ne pas s'authentifier suivant les cas d'erreurs",
+        "tags": [
+          {
+            "name": "@INIT",
+            "astNodeId": "35"
+          }
+        ],
+        "id": "authentification-au-site;ne-pas-s'authentifier-suivant-les-cas-d'erreurs",
+        "line": 0,
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 0
+            },
+            "line": 185,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "J'accede a la page \"Bureau Valee\"",
+            "result": {
+              "status": "passed",
+              "duration": 626000000
+            },
+            "line": 68,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3931000000
+            },
+            "line": 69,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"BoutonConfirmer\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3333000000
+            },
+            "line": 70,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"RefuserCookies\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3029000000
+            },
+            "line": 71,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"LienIdentifierVous\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3114000000
+            },
+            "line": 72,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je verifie que je suis sur la page \"Login\"",
+            "result": {
+              "status": "passed",
+              "duration": 888000000
+            },
+            "line": 73,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"fakeUserName@yo.com\" dans le champ \"EmailLogin\"",
+            "result": {
+              "status": "passed",
+              "duration": 872000000
+            },
+            "line": 74,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"fakePass\" dans le champ \"PasswordLogin\"",
+            "result": {
+              "status": "passed",
+              "duration": 333000000
+            },
+            "line": 75,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"NotifMail\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3039000000
+            },
+            "line": 76,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je scroll jusqu'a l'element \"MeConnecter\"",
+            "result": {
+              "status": "passed",
+              "duration": 21000000
+            },
+            "line": 77,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"MeConnecter\"",
+            "result": {
+              "status": "passed",
+              "duration": 1063000000
+            },
+            "line": 78,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "Je verifie la presence du texte \"Impossible de trouver un compte correspondant à cette adresse e-mail\"",
+            "result": {
+              "status": "passed",
+              "duration": 1451000000
+            },
+            "line": 79,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 0
+            },
+            "line": 198,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ]
+      },
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "ne pas s'authentifier suivant les cas d'erreurs",
+        "tags": [
+          {
+            "name": "@INIT",
+            "astNodeId": "35"
+          }
+        ],
+        "id": "authentification-au-site;ne-pas-s'authentifier-suivant-les-cas-d'erreurs",
+        "line": 0,
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 0
+            },
+            "line": 200,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "J'accede a la page \"Bureau Valee\"",
+            "result": {
+              "status": "passed",
+              "duration": 307000000
+            },
+            "line": 81,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3091000000
+            },
+            "line": 82,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"BoutonConfirmer\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3020000000
+            },
+            "line": 83,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"RefuserCookies\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3018000000
+            },
+            "line": 84,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"LienIdentifierVous\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3080000000
+            },
+            "line": 85,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je verifie que je suis sur la page \"Login\"",
+            "result": {
+              "status": "passed",
+              "duration": 725000000
+            },
+            "line": 86,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"fakeUserName23@yo.com\" dans le champ \"EmailLogin\"",
+            "result": {
+              "status": "passed",
+              "duration": 478000000
+            },
+            "line": 87,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"fakePass\" dans le champ \"PasswordLogin\"",
+            "result": {
+              "status": "passed",
+              "duration": 392000000
+            },
+            "line": 88,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"NotifMail\" si existe",
+            "result": {
+              "status": "passed",
+              "duration": 3049000000
+            },
+            "line": 89,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je scroll jusqu'a l'element \"MeConnecter\"",
+            "result": {
+              "status": "passed",
+              "duration": 12000000
+            },
+            "line": 90,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"MeConnecter\"",
+            "result": {
+              "status": "passed",
+              "duration": 1053000000
+            },
+            "line": 91,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "Je verifie la presence du texte \"Impossible de trouver un compte correspondant à cette adresse e-mail\"",
+            "result": {
+              "status": "passed",
+              "duration": 1409000000
+            },
+            "line": 92,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            },
+            "line": 213,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ]
+      }
+    ],
+    "id": "authentification-au-site",
+    "metadata": {
+      "browser": {
+        "name": "Edge",
+        "version": "96.0.1054.62"
+      },
+      "device": "Device name not known",
+      "platform": {
+        "name": "win32",
+        "version": "Version not known"
+      }
+    }
+  },
+  {
+    "keyword": "Feature",
+    "type": "feature",
+    "description": "",
+    "line": 0,
+    "name": "Check le magasin le plus proche",
+    "uri": "Can not be determined",
+    "tags": [
+      {
+        "location": {
+          "line": 1,
+          "column": 1
+        },
+        "name": "@INIT",
+        "id": "16"
+      }
+    ],
+    "elements": [
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "remplir le CP et refuser les cookies",
+        "tags": [
+          {
+            "name": "@INIT",
+            "astNodeId": "16"
+          }
+        ],
+        "id": "check-le-magasin-le-plus-proche;remplir-le-cp-et-refuser-les-cookies",
+        "line": 0,
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 9000000
+            },
+            "line": 109,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "J'accede a la page \"Bureau Valee\"",
+            "result": {
+              "status": "passed",
+              "duration": 3633000000
+            },
+            "line": 17,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\"",
+            "result": {
+              "status": "passed",
+              "duration": 2723000000
+            },
+            "line": 18,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"BoutonConfirmer\"",
+            "result": {
+              "status": "passed",
+              "duration": 1460000000
+            },
+            "line": 19,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"RefuserCookies\"",
+            "result": {
+              "status": "passed",
+              "duration": 2869000000
+            },
+            "line": 20,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "J'attends \"3\" secondes",
+            "result": {
+              "status": "passed",
+              "duration": 3006000000
+            },
+            "line": 21,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "Je verifie que l'element \"Logo\" est affiche",
+            "result": {
+              "status": "passed",
+              "duration": 72000000
+            },
+            "line": 22,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "J'attends \"3\" secondes",
+            "result": {
+              "status": "passed",
+              "duration": 3015000000
+            },
+            "line": 23,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "Je verifie que \"ShopPersonnalise\" contient le texte \"Rambouillet\"",
+            "result": {
+              "status": "passed",
+              "duration": 14000000
+            },
+            "line": 24,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "J'attends \"3\" secondes",
+            "result": {
+              "status": "passed",
+              "duration": 3004000000
+            },
+            "line": 25,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            },
+            "line": 119,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ]
+      },
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "acceder aux details du magazin le plus proche",
+        "tags": [
+          {
+            "name": "@INIT",
+            "astNodeId": "16"
+          }
+        ],
+        "id": "check-le-magasin-le-plus-proche;acceder-aux-details-du-magazin-le-plus-proche",
+        "line": 0,
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 0
+            },
+            "line": 121,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "Je clique sur \"SlctNomVille\"",
+            "result": {
+              "status": "passed",
+              "duration": 1074000000
+            },
+            "line": 27,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"BtnVoirFicheMagazin\"",
+            "result": {
+              "status": "passed",
+              "duration": 1204000000
+            },
+            "line": 28,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "J'attends \"3\" secondes",
+            "result": {
+              "status": "passed",
+              "duration": 3013000000
+            },
+            "line": 29,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "Je verifie la presence du texte \"Magasin Bureau Vallée Rambouillet\"",
+            "result": {
+              "status": "passed",
+              "duration": 82000000
+            },
+            "line": 30,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je verifie que je suis sur la page \"Page ville\"",
+            "result": {
+              "status": "passed",
+              "duration": 18000000
+            },
+            "line": 31,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 0
+            },
+            "line": 127,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ]
+      }
+    ],
+    "id": "check-le-magasin-le-plus-proche",
+    "metadata": {
+      "browser": {
+        "name": "Chrome Headless",
+        "version": "96.0.4664.110"
+      },
+      "device": "Device name not known",
+      "platform": {
+        "name": "win32",
+        "version": "Version not known"
+      }
+    }
+  },
+  {
+    "keyword": "Feature",
+    "type": "feature",
+    "description": "",
+    "line": 0,
+    "name": "Check le magasin le plus proche",
+    "uri": "Can not be determined",
+    "tags": [
+      {
+        "location": {
+          "line": 1,
+          "column": 1
+        },
+        "name": "@INIT",
+        "id": "16"
+      }
+    ],
+    "elements": [
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "remplir le CP et refuser les cookies",
+        "tags": [
+          {
+            "name": "@INIT",
+            "astNodeId": "16"
+          }
+        ],
+        "id": "check-le-magasin-le-plus-proche;remplir-le-cp-et-refuser-les-cookies",
+        "line": 0,
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 6000000
+            },
+            "line": 109,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "J'accede a la page \"Bureau Valee\"",
+            "result": {
+              "status": "passed",
+              "duration": 1945000000
+            },
+            "line": 17,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\"",
+            "result": {
+              "status": "passed",
+              "duration": 3219000000
+            },
+            "line": 18,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"BoutonConfirmer\"",
+            "result": {
+              "status": "passed",
+              "duration": 1255000000
+            },
+            "line": 19,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"RefuserCookies\"",
+            "result": {
+              "status": "passed",
+              "duration": 3296000000
+            },
+            "line": 20,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "J'attends \"3\" secondes",
+            "result": {
+              "status": "passed",
+              "duration": 3017000000
+            },
+            "line": 21,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "Je verifie que l'element \"Logo\" est affiche",
+            "result": {
+              "status": "passed",
+              "duration": 42000000
+            },
+            "line": 22,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "J'attends \"3\" secondes",
+            "result": {
+              "status": "passed",
+              "duration": 3016000000
+            },
+            "line": 23,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "Je verifie que \"ShopPersonnalise\" contient le texte \"Rambouillet\"",
+            "result": {
+              "status": "passed",
+              "duration": 36000000
+            },
+            "line": 24,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "J'attends \"3\" secondes",
+            "result": {
+              "status": "passed",
+              "duration": 3005000000
+            },
+            "line": 25,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            },
+            "line": 119,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ]
+      },
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "acceder aux details du magazin le plus proche",
+        "tags": [
+          {
+            "name": "@INIT",
+            "astNodeId": "16"
+          }
+        ],
+        "id": "check-le-magasin-le-plus-proche;acceder-aux-details-du-magazin-le-plus-proche",
+        "line": 0,
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 0
+            },
+            "line": 121,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "Je clique sur \"SlctNomVille\"",
+            "result": {
+              "status": "passed",
+              "duration": 1052000000
+            },
+            "line": 27,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je clique sur \"BtnVoirFicheMagazin\"",
+            "result": {
+              "status": "passed",
+              "duration": 1084000000
+            },
+            "line": 28,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "J'attends \"3\" secondes",
+            "result": {
+              "status": "passed",
+              "duration": 3021000000
+            },
+            "line": 29,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "Je verifie la presence du texte \"Magasin Bureau Vallée Rambouillet\"",
+            "result": {
+              "status": "passed",
+              "duration": 36000000
+            },
+            "line": 30,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Je verifie que je suis sur la page \"Page ville\"",
+            "result": {
+              "status": "passed",
+              "duration": 34000000
+            },
+            "line": 31,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 0
+            },
+            "line": 127,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ]
+      }
+    ],
+    "id": "check-le-magasin-le-plus-proche",
+    "metadata": {
+      "browser": {
+        "name": "Edge",
+        "version": "96.0.1054.62"
+      },
+      "device": "Device name not known",
+      "platform": {
+        "name": "win32",
+        "version": "Version not known"
+      }
+    }
+  }
+]
