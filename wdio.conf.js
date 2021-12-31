@@ -53,7 +53,7 @@ exports.config = {
             args: [
                 // Defintion du mode headless
                 // Commenter la ligne pour voir l'execution
-                //--headless',
+                '--headless',
                 // Arguments chrome necessaires aux tests autos stables
                 "--disable-infobars",
                 "--allow-running-insecure-content",
@@ -80,7 +80,7 @@ exports.config = {
             args: [
                 // Defintion du mode headless
                 // Commenter la ligne pour voir l'execution
-                //'--headless',
+                '--headless',
                 // Arguments chrome necessaires aux tests autos stables
                 "--disable-infobars",
                 "--allow-running-insecure-content",

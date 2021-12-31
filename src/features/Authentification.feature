@@ -33,7 +33,6 @@ Feature: authentification au site
              When J'ajoute le texte "78125" dans le champ "CodePostal" si existe
               And Je clique sur "BoutonConfirmer" si existe
               And Je clique sur "RefuserCookies" si existe
-              And J'attends "2" secondes
               And Je clique sur "LienIdentifierVous" si existe
               And Je verifie que je suis sur la page "Login"
              When J'ajoute le texte <username> dans le champ "EmailLogin"
