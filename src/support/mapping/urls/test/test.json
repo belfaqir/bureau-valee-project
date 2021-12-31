@@ -1,0 +1,9 @@
+{
+    "URLS": "Page test",
+    "Test Authentification": "https://www.saucedemo.com/",
+    "Test Resultats": "https://www.saucedemo.com/inventory.html",
+    "Bureau Valee": "https://www.bureau-vallee.fr",
+    "Login":"https://www.bureau-vallee.fr/customer/account/login/",
+    "Account":"https://www.bureau-vallee.fr/customer/account/",
+    "Page ville": "https://magasins.bureau-vallee.fr/fr/france-33/yvelines-78/rambouillet-78517/rambouillet-BV357"
+}

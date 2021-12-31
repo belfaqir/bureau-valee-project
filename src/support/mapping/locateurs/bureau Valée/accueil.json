@@ -1,0 +1,12 @@
+{
+    "Logo": ".img-responsive",
+    "ShopPersonnalise": "#js-shop__container",
+    "SlctNomVille": "#js-shop__container p",
+    "BtnVoirFicheMagazin":"#shop_layer a:nth-child(3)", 
+    "LienIdentifierVous": "#js-welcome__item",
+    "EmailLogin":"#login\\[email\\]",
+    "PasswordLogin":"#login\\[password\\]", 
+    "MeConnecter": "/html/body/div[1]/main/div/div/div[2]/div[1]/div[2]/form/div[3]/div/button",
+    "NotifMail": "#RTMwrapper-sc a"
+
+}

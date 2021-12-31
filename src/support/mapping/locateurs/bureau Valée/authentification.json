@@ -1,0 +1,4 @@
+{
+    "MenuTableauDeBord":"#account-nav li.nav.item.current",
+    "MenuSeDeconnecter":"#account-nav li:nth-child(4) a"
+}

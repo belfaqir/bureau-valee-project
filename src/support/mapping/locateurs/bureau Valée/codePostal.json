@@ -1,0 +1,5 @@
+{
+    "CodePostal": "#zip-code-value",
+    "BoutonConfirmer": "#findShopByZipCode",
+    "RefuserCookies": ".amgdprcookie-button.-decline"
+}
