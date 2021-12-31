@@ -37,7 +37,7 @@ exports.config = {
     // ============
     // ------------
     // Defintion du nombre d'instance a lancer en parallele (tous navigateurs confondus)
-    maxInstances: 10,
+    maxInstances: 4,
     // Definition du ou des navigateurs
     // Commenter / Decommenter en focntion des besoins
     capabilities: [
@@ -46,7 +46,7 @@ exports.config = {
         // Chrome
         // ------------
         // Defintion du nombre d'instance a lancer en parallele (Chrome)
-        maxInstances: 5,
+        maxInstances: 2,
         browserName: 'chrome',
         'goog:chromeOptions': {
             extensions: [],
@@ -73,7 +73,7 @@ exports.config = {
         // Edge
         // ------------
         // Defintion du nombre d'instance a lancer en parallele (Edge)
-        maxInstances: 5,
+        maxInstances: 2,
         browserName: 'edge',
         'ms:edgeOptions': {
             extensions: [],
