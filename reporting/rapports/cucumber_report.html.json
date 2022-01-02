@@ -37,7 +37,7 @@
             "name": "",
             "result": {
               "status": "passed",
-              "duration": 2000000
+              "duration": 1000000
             },
             "line": 170,
             "match": {
@@ -50,7 +50,7 @@
             "name": "J'accede a la page \"Bureau Valee\"",
             "result": {
               "status": "passed",
-              "duration": 1077000000
+              "duration": 1202000000
             },
             "line": 37,
             "match": {
@@ -63,7 +63,7 @@
             "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\" si existe",
             "result": {
               "status": "passed",
-              "duration": 2875000000
+              "duration": 3164000000
             },
             "line": 38,
             "match": {
@@ -76,7 +76,7 @@
             "name": "Je clique sur \"BoutonConfirmer\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3066000000
+              "duration": 3226000000
             },
             "line": 39,
             "match": {
@@ -89,7 +89,7 @@
             "name": "Je clique sur \"RefuserCookies\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3163000000
+              "duration": 3132000000
             },
             "line": 40,
             "match": {
@@ -102,7 +102,7 @@
             "name": "Je clique sur \"LienIdentifierVous\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3109000000
+              "duration": 3093000000
             },
             "line": 41,
             "match": {
@@ -115,7 +115,7 @@
             "name": "Je verifie que je suis sur la page \"Login\"",
             "result": {
               "status": "passed",
-              "duration": 905000000
+              "duration": 950000000
             },
             "line": 42,
             "match": {
@@ -128,7 +128,7 @@
             "name": "J'ajoute le texte \"imad.belfaqir@hardis-group.com\" dans le champ \"EmailLogin\" si existe",
             "result": {
               "status": "passed",
-              "duration": 2155000000
+              "duration": 2218000000
             },
             "line": 43,
             "match": {
@@ -141,7 +141,7 @@
             "name": "J'ajoute le texte \"Hardis-group\" dans le champ \"PasswordLogin\" si existe",
             "result": {
               "status": "passed",
-              "duration": 2090000000
+              "duration": 2245000000
             },
             "line": 44,
             "match": {
@@ -154,7 +154,7 @@
             "name": "Je scroll jusqu'a l'element \"MeConnecter\"",
             "result": {
               "status": "passed",
-              "duration": 21000000
+              "duration": 35000000
             },
             "line": 45,
             "match": {
@@ -167,7 +167,7 @@
             "name": "Je clique sur \"MeConnecter\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3086000000
+              "duration": 3137000000
             },
             "line": 46,
             "match": {
@@ -180,7 +180,7 @@
             "name": "Je verifie que je suis sur la page \"Account\"",
             "result": {
               "status": "passed",
-              "duration": 1412000000
+              "duration": 2095000000
             },
             "line": 47,
             "match": {
@@ -193,7 +193,7 @@
             "name": "Je verifie que l'element \"MenuTableauDeBord\" est present",
             "result": {
               "status": "passed",
-              "duration": 81000000
+              "duration": 122000000
             },
             "line": 48,
             "match": {
@@ -206,7 +206,7 @@
             "name": "Je verifie que \"MenuTableauDeBord\" contient le texte \"Mon tableau de bord\"",
             "result": {
               "status": "passed",
-              "duration": 202000000
+              "duration": 467000000
             },
             "line": 49,
             "match": {
@@ -219,7 +219,7 @@
             "name": "Je verifie que l'element \"MenuSeDeconnecter\" est present",
             "result": {
               "status": "passed",
-              "duration": 11000000
+              "duration": 35000000
             },
             "line": 50,
             "match": {
@@ -232,7 +232,7 @@
             "name": "Je clique sur \"MenuSeDeconnecter\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3088000000
+              "duration": 3116000000
             },
             "line": 51,
             "match": {
@@ -245,7 +245,7 @@
             "name": "J'attends \"6\" secondes",
             "result": {
               "status": "passed",
-              "duration": 6004000000
+              "duration": 6012000000
             },
             "line": 52,
             "match": {
@@ -258,7 +258,7 @@
             "name": "Je verifie que je suis sur la page \"Bureau Valee\"",
             "result": {
               "status": "passed",
-              "duration": 530000000
+              "duration": 7000000
             },
             "line": 53,
             "match": {
@@ -271,7 +271,7 @@
             "name": "",
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 0
             },
             "line": 188,
             "match": {
@@ -300,7 +300,7 @@
             "name": "",
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 0
             },
             "line": 190,
             "match": {
@@ -313,7 +313,7 @@
             "name": "J'accede a la page \"Bureau Valee\"",
             "result": {
               "status": "passed",
-              "duration": 472000000
+              "duration": 481000000
             },
             "line": 55,
             "match": {
@@ -326,7 +326,7 @@
             "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3147000000
+              "duration": 3173000000
             },
             "line": 56,
             "match": {
@@ -339,7 +339,7 @@
             "name": "Je clique sur \"BoutonConfirmer\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3030000000
+              "duration": 3027000000
             },
             "line": 57,
             "match": {
@@ -352,7 +352,7 @@
             "name": "Je clique sur \"RefuserCookies\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3018000000
+              "duration": 3017000000
             },
             "line": 58,
             "match": {
@@ -365,7 +365,7 @@
             "name": "Je clique sur \"LienIdentifierVous\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3067000000
+              "duration": 3073000000
             },
             "line": 59,
             "match": {
@@ -378,7 +378,7 @@
             "name": "Je verifie que je suis sur la page \"Login\"",
             "result": {
               "status": "passed",
-              "duration": 976000000
+              "duration": 1016000000
             },
             "line": 60,
             "match": {
@@ -391,7 +391,7 @@
             "name": "J'ajoute le texte \"NonValidUserName\" dans le champ \"EmailLogin\"",
             "result": {
               "status": "passed",
-              "duration": 681000000
+              "duration": 783000000
             },
             "line": 61,
             "match": {
@@ -404,7 +404,7 @@
             "name": "J'ajoute le texte \"fakePass\" dans le champ \"PasswordLogin\"",
             "result": {
               "status": "passed",
-              "duration": 401000000
+              "duration": 303000000
             },
             "line": 62,
             "match": {
@@ -417,7 +417,7 @@
             "name": "Je clique sur \"NotifMail\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3013000000
+              "duration": 3025000000
             },
             "line": 63,
             "match": {
@@ -430,7 +430,7 @@
             "name": "Je scroll jusqu'a l'element \"MeConnecter\"",
             "result": {
               "status": "passed",
-              "duration": 27000000
+              "duration": 24000000
             },
             "line": 64,
             "match": {
@@ -443,7 +443,7 @@
             "name": "Je clique sur \"MeConnecter\"",
             "result": {
               "status": "passed",
-              "duration": 1056000000
+              "duration": 1088000000
             },
             "line": 65,
             "match": {
@@ -456,7 +456,7 @@
             "name": "Je verifie la presence du texte \"Veuillez renseigner une adresse email valide\"",
             "result": {
               "status": "passed",
-              "duration": 9000000
+              "duration": 10000000
             },
             "line": 66,
             "match": {
@@ -469,7 +469,7 @@
             "name": "",
             "result": {
               "status": "passed",
-              "duration": 0
+              "duration": 1000000
             },
             "line": 203,
             "match": {
@@ -511,7 +511,7 @@
             "name": "J'accede a la page \"Bureau Valee\"",
             "result": {
               "status": "passed",
-              "duration": 326000000
+              "duration": 570000000
             },
             "line": 68,
             "match": {
@@ -524,7 +524,7 @@
             "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3070000000
+              "duration": 3041000000
             },
             "line": 69,
             "match": {
@@ -537,7 +537,7 @@
             "name": "Je clique sur \"BoutonConfirmer\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3023000000
+              "duration": 3028000000
             },
             "line": 70,
             "match": {
@@ -550,7 +550,7 @@
             "name": "Je clique sur \"RefuserCookies\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3013000000
+              "duration": 3020000000
             },
             "line": 71,
             "match": {
@@ -563,7 +563,7 @@
             "name": "Je clique sur \"LienIdentifierVous\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3080000000
+              "duration": 3086000000
             },
             "line": 72,
             "match": {
@@ -576,7 +576,7 @@
             "name": "Je verifie que je suis sur la page \"Login\"",
             "result": {
               "status": "passed",
-              "duration": 799000000
+              "duration": 978000000
             },
             "line": 73,
             "match": {
@@ -589,7 +589,7 @@
             "name": "J'ajoute le texte \"fakeUserName@yo.com\" dans le champ \"EmailLogin\"",
             "result": {
               "status": "passed",
-              "duration": 511000000
+              "duration": 577000000
             },
             "line": 74,
             "match": {
@@ -602,7 +602,7 @@
             "name": "J'ajoute le texte \"fakePass\" dans le champ \"PasswordLogin\"",
             "result": {
               "status": "passed",
-              "duration": 326000000
+              "duration": 324000000
             },
             "line": 75,
             "match": {
@@ -615,7 +615,7 @@
             "name": "Je clique sur \"NotifMail\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3051000000
+              "duration": 3033000000
             },
             "line": 76,
             "match": {
@@ -628,7 +628,7 @@
             "name": "Je scroll jusqu'a l'element \"MeConnecter\"",
             "result": {
               "status": "passed",
-              "duration": 15000000
+              "duration": 16000000
             },
             "line": 77,
             "match": {
@@ -641,7 +641,7 @@
             "name": "Je clique sur \"MeConnecter\"",
             "result": {
               "status": "passed",
-              "duration": 1074000000
+              "duration": 1071000000
             },
             "line": 78,
             "match": {
@@ -654,7 +654,7 @@
             "name": "Je verifie la presence du texte \"Impossible de trouver un compte correspondant à cette adresse e-mail\"",
             "result": {
               "status": "passed",
-              "duration": 1531000000
+              "duration": 1663000000
             },
             "line": 79,
             "match": {
@@ -667,7 +667,7 @@
             "name": "",
             "result": {
               "status": "passed",
-              "duration": 0
+              "duration": 1000000
             },
             "line": 218,
             "match": {
@@ -709,7 +709,7 @@
             "name": "J'accede a la page \"Bureau Valee\"",
             "result": {
               "status": "passed",
-              "duration": 484000000
+              "duration": 551000000
             },
             "line": 81,
             "match": {
@@ -722,7 +722,7 @@
             "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3140000000
+              "duration": 3094000000
             },
             "line": 82,
             "match": {
@@ -735,7 +735,7 @@
             "name": "Je clique sur \"BoutonConfirmer\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3018000000
+              "duration": 3020000000
             },
             "line": 83,
             "match": {
@@ -748,7 +748,7 @@
             "name": "Je clique sur \"RefuserCookies\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3025000000
+              "duration": 3020000000
             },
             "line": 84,
             "match": {
@@ -761,7 +761,7 @@
             "name": "Je clique sur \"LienIdentifierVous\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3180000000
+              "duration": 3076000000
             },
             "line": 85,
             "match": {
@@ -774,7 +774,7 @@
             "name": "Je verifie que je suis sur la page \"Login\"",
             "result": {
               "status": "passed",
-              "duration": 1471000000
+              "duration": 1136000000
             },
             "line": 86,
             "match": {
@@ -787,7 +787,7 @@
             "name": "J'ajoute le texte \"fakeUserName23@yo.com\" dans le champ \"EmailLogin\"",
             "result": {
               "status": "passed",
-              "duration": 1577000000
+              "duration": 557000000
             },
             "line": 87,
             "match": {
@@ -800,7 +800,7 @@
             "name": "J'ajoute le texte \"fakePass\" dans le champ \"PasswordLogin\"",
             "result": {
               "status": "passed",
-              "duration": 462000000
+              "duration": 323000000
             },
             "line": 88,
             "match": {
@@ -813,7 +813,7 @@
             "name": "Je clique sur \"NotifMail\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3082000000
+              "duration": 3034000000
             },
             "line": 89,
             "match": {
@@ -826,7 +826,7 @@
             "name": "Je scroll jusqu'a l'element \"MeConnecter\"",
             "result": {
               "status": "passed",
-              "duration": 41000000
+              "duration": 15000000
             },
             "line": 90,
             "match": {
@@ -839,7 +839,7 @@
             "name": "Je clique sur \"MeConnecter\"",
             "result": {
               "status": "passed",
-              "duration": 1129000000
+              "duration": 1066000000
             },
             "line": 91,
             "match": {
@@ -852,7 +852,7 @@
             "name": "Je verifie la presence du texte \"Impossible de trouver un compte correspondant à cette adresse e-mail\"",
             "result": {
               "status": "passed",
-              "duration": 2460000000
+              "duration": 1474000000
             },
             "line": 92,
             "match": {
@@ -865,7 +865,7 @@
             "name": "",
             "result": {
               "status": "passed",
-              "duration": 0
+              "duration": 1000000
             },
             "line": 233,
             "match": {
@@ -926,7 +926,7 @@
             "name": "",
             "result": {
               "status": "passed",
-              "duration": 3000000
+              "duration": 2000000
             },
             "line": 170,
             "match": {
@@ -939,7 +939,7 @@
             "name": "J'accede a la page \"Bureau Valee\"",
             "result": {
               "status": "passed",
-              "duration": 2039000000
+              "duration": 1876000000
             },
             "line": 37,
             "match": {
@@ -952,7 +952,7 @@
             "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\" si existe",
             "result": {
               "status": "passed",
-              "duration": 2162000000
+              "duration": 2918000000
             },
             "line": 38,
             "match": {
@@ -965,7 +965,7 @@
             "name": "Je clique sur \"BoutonConfirmer\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3083000000
+              "duration": 3095000000
             },
             "line": 39,
             "match": {
@@ -978,7 +978,7 @@
             "name": "Je clique sur \"RefuserCookies\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3089000000
+              "duration": 3093000000
             },
             "line": 40,
             "match": {
@@ -991,7 +991,7 @@
             "name": "Je clique sur \"LienIdentifierVous\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3107000000
+              "duration": 3069000000
             },
             "line": 41,
             "match": {
@@ -1004,7 +1004,7 @@
             "name": "Je verifie que je suis sur la page \"Login\"",
             "result": {
               "status": "passed",
-              "duration": 843000000
+              "duration": 827000000
             },
             "line": 42,
             "match": {
@@ -1017,7 +1017,7 @@
             "name": "J'ajoute le texte \"imad.belfaqir@hardis-group.com\" dans le champ \"EmailLogin\" si existe",
             "result": {
               "status": "passed",
-              "duration": 2165000000
+              "duration": 2198000000
             },
             "line": 43,
             "match": {
@@ -1030,7 +1030,7 @@
             "name": "J'ajoute le texte \"Hardis-group\" dans le champ \"PasswordLogin\" si existe",
             "result": {
               "status": "passed",
-              "duration": 2068000000
+              "duration": 2132000000
             },
             "line": 44,
             "match": {
@@ -1043,7 +1043,7 @@
             "name": "Je scroll jusqu'a l'element \"MeConnecter\"",
             "result": {
               "status": "passed",
-              "duration": 22000000
+              "duration": 34000000
             },
             "line": 45,
             "match": {
@@ -1056,7 +1056,7 @@
             "name": "Je clique sur \"MeConnecter\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3074000000
+              "duration": 3173000000
             },
             "line": 46,
             "match": {
@@ -1069,7 +1069,7 @@
             "name": "Je verifie que je suis sur la page \"Account\"",
             "result": {
               "status": "passed",
-              "duration": 1487000000
+              "duration": 1698000000
             },
             "line": 47,
             "match": {
@@ -1082,7 +1082,7 @@
             "name": "Je verifie que l'element \"MenuTableauDeBord\" est present",
             "result": {
               "status": "passed",
-              "duration": 109000000
+              "duration": 166000000
             },
             "line": 48,
             "match": {
@@ -1095,7 +1095,7 @@
             "name": "Je verifie que \"MenuTableauDeBord\" contient le texte \"Mon tableau de bord\"",
             "result": {
               "status": "passed",
-              "duration": 242000000
+              "duration": 407000000
             },
             "line": 49,
             "match": {
@@ -1108,7 +1108,7 @@
             "name": "Je verifie que l'element \"MenuSeDeconnecter\" est present",
             "result": {
               "status": "passed",
-              "duration": 13000000
+              "duration": 32000000
             },
             "line": 50,
             "match": {
@@ -1121,7 +1121,7 @@
             "name": "Je clique sur \"MenuSeDeconnecter\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3143000000
+              "duration": 3112000000
             },
             "line": 51,
             "match": {
@@ -1134,7 +1134,7 @@
             "name": "J'attends \"6\" secondes",
             "result": {
               "status": "passed",
-              "duration": 6007000000
+              "duration": 6022000000
             },
             "line": 52,
             "match": {
@@ -1147,7 +1147,7 @@
             "name": "Je verifie que je suis sur la page \"Bureau Valee\"",
             "result": {
               "status": "passed",
-              "duration": 687000000
+              "duration": 511000000
             },
             "line": 53,
             "match": {
@@ -1160,7 +1160,7 @@
             "name": "",
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 0
             },
             "line": 188,
             "match": {
@@ -1189,7 +1189,7 @@
             "name": "",
             "result": {
               "status": "passed",
-              "duration": 0
+              "duration": 2000000
             },
             "line": 190,
             "match": {
@@ -1202,7 +1202,7 @@
             "name": "J'accede a la page \"Bureau Valee\"",
             "result": {
               "status": "passed",
-              "duration": 341000000
+              "duration": 646000000
             },
             "line": 55,
             "match": {
@@ -1215,7 +1215,7 @@
             "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3065000000
+              "duration": 3130000000
             },
             "line": 56,
             "match": {
@@ -1228,7 +1228,7 @@
             "name": "Je clique sur \"BoutonConfirmer\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3017000000
+              "duration": 3027000000
             },
             "line": 57,
             "match": {
@@ -1241,7 +1241,7 @@
             "name": "Je clique sur \"RefuserCookies\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3014000000
+              "duration": 3019000000
             },
             "line": 58,
             "match": {
@@ -1254,7 +1254,7 @@
             "name": "Je clique sur \"LienIdentifierVous\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3086000000
+              "duration": 3075000000
             },
             "line": 59,
             "match": {
@@ -1267,7 +1267,7 @@
             "name": "Je verifie que je suis sur la page \"Login\"",
             "result": {
               "status": "passed",
-              "duration": 843000000
+              "duration": 1000000000
             },
             "line": 60,
             "match": {
@@ -1280,7 +1280,7 @@
             "name": "J'ajoute le texte \"NonValidUserName\" dans le champ \"EmailLogin\"",
             "result": {
               "status": "passed",
-              "duration": 399000000
+              "duration": 576000000
             },
             "line": 61,
             "match": {
@@ -1293,7 +1293,7 @@
             "name": "J'ajoute le texte \"fakePass\" dans le champ \"PasswordLogin\"",
             "result": {
               "status": "passed",
-              "duration": 331000000
+              "duration": 303000000
             },
             "line": 62,
             "match": {
@@ -1306,7 +1306,7 @@
             "name": "Je clique sur \"NotifMail\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3021000000
+              "duration": 3012000000
             },
             "line": 63,
             "match": {
@@ -1319,7 +1319,7 @@
             "name": "Je scroll jusqu'a l'element \"MeConnecter\"",
             "result": {
               "status": "passed",
-              "duration": 22000000
+              "duration": 24000000
             },
             "line": 64,
             "match": {
@@ -1332,7 +1332,7 @@
             "name": "Je clique sur \"MeConnecter\"",
             "result": {
               "status": "passed",
-              "duration": 1060000000
+              "duration": 1080000000
             },
             "line": 65,
             "match": {
@@ -1345,7 +1345,7 @@
             "name": "Je verifie la presence du texte \"Veuillez renseigner une adresse email valide\"",
             "result": {
               "status": "passed",
-              "duration": 15000000
+              "duration": 10000000
             },
             "line": 66,
             "match": {
@@ -1358,7 +1358,7 @@
             "name": "",
             "result": {
               "status": "passed",
-              "duration": 0
+              "duration": 1000000
             },
             "line": 203,
             "match": {
@@ -1400,7 +1400,7 @@
             "name": "J'accede a la page \"Bureau Valee\"",
             "result": {
               "status": "passed",
-              "duration": 442000000
+              "duration": 414000000
             },
             "line": 68,
             "match": {
@@ -1413,7 +1413,7 @@
             "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3088000000
+              "duration": 3043000000
             },
             "line": 69,
             "match": {
@@ -1426,7 +1426,7 @@
             "name": "Je clique sur \"BoutonConfirmer\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3029000000
+              "duration": 3017000000
             },
             "line": 70,
             "match": {
@@ -1439,7 +1439,7 @@
             "name": "Je clique sur \"RefuserCookies\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3014000000
+              "duration": 3019000000
             },
             "line": 71,
             "match": {
@@ -1452,7 +1452,7 @@
             "name": "Je clique sur \"LienIdentifierVous\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3085000000
+              "duration": 3075000000
             },
             "line": 72,
             "match": {
@@ -1465,7 +1465,7 @@
             "name": "Je verifie que je suis sur la page \"Login\"",
             "result": {
               "status": "passed",
-              "duration": 860000000
+              "duration": 664000000
             },
             "line": 73,
             "match": {
@@ -1478,7 +1478,7 @@
             "name": "J'ajoute le texte \"fakeUserName@yo.com\" dans le champ \"EmailLogin\"",
             "result": {
               "status": "passed",
-              "duration": 506000000
+              "duration": 627000000
             },
             "line": 74,
             "match": {
@@ -1491,7 +1491,7 @@
             "name": "J'ajoute le texte \"fakePass\" dans le champ \"PasswordLogin\"",
             "result": {
               "status": "passed",
-              "duration": 330000000
+              "duration": 356000000
             },
             "line": 75,
             "match": {
@@ -1504,7 +1504,7 @@
             "name": "Je clique sur \"NotifMail\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3047000000
+              "duration": 3046000000
             },
             "line": 76,
             "match": {
@@ -1517,7 +1517,7 @@
             "name": "Je scroll jusqu'a l'element \"MeConnecter\"",
             "result": {
               "status": "passed",
-              "duration": 17000000
+              "duration": 12000000
             },
             "line": 77,
             "match": {
@@ -1530,7 +1530,7 @@
             "name": "Je clique sur \"MeConnecter\"",
             "result": {
               "status": "passed",
-              "duration": 1070000000
+              "duration": 1056000000
             },
             "line": 78,
             "match": {
@@ -1543,7 +1543,7 @@
             "name": "Je verifie la presence du texte \"Impossible de trouver un compte correspondant à cette adresse e-mail\"",
             "result": {
               "status": "passed",
-              "duration": 1602000000
+              "duration": 1543000000
             },
             "line": 79,
             "match": {
@@ -1556,7 +1556,7 @@
             "name": "",
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 0
             },
             "line": 218,
             "match": {
@@ -1598,7 +1598,7 @@
             "name": "J'accede a la page \"Bureau Valee\"",
             "result": {
               "status": "passed",
-              "duration": 473000000
+              "duration": 616000000
             },
             "line": 81,
             "match": {
@@ -1611,7 +1611,7 @@
             "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3060000000
+              "duration": 3218000000
             },
             "line": 82,
             "match": {
@@ -1624,7 +1624,7 @@
             "name": "Je clique sur \"BoutonConfirmer\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3025000000
+              "duration": 3022000000
             },
             "line": 83,
             "match": {
@@ -1637,7 +1637,7 @@
             "name": "Je clique sur \"RefuserCookies\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3015000000
+              "duration": 3017000000
             },
             "line": 84,
             "match": {
@@ -1650,7 +1650,7 @@
             "name": "Je clique sur \"LienIdentifierVous\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3136000000
+              "duration": 3069000000
             },
             "line": 85,
             "match": {
@@ -1663,7 +1663,7 @@
             "name": "Je verifie que je suis sur la page \"Login\"",
             "result": {
               "status": "passed",
-              "duration": 1547000000
+              "duration": 978000000
             },
             "line": 86,
             "match": {
@@ -1676,7 +1676,7 @@
             "name": "J'ajoute le texte \"fakeUserName23@yo.com\" dans le champ \"EmailLogin\"",
             "result": {
               "status": "passed",
-              "duration": 1309000000
+              "duration": 682000000
             },
             "line": 87,
             "match": {
@@ -1689,7 +1689,7 @@
             "name": "J'ajoute le texte \"fakePass\" dans le champ \"PasswordLogin\"",
             "result": {
               "status": "passed",
-              "duration": 411000000
+              "duration": 325000000
             },
             "line": 88,
             "match": {
@@ -1702,7 +1702,7 @@
             "name": "Je clique sur \"NotifMail\" si existe",
             "result": {
               "status": "passed",
-              "duration": 3076000000
+              "duration": 3042000000
             },
             "line": 89,
             "match": {
@@ -1715,7 +1715,7 @@
             "name": "Je scroll jusqu'a l'element \"MeConnecter\"",
             "result": {
               "status": "passed",
-              "duration": 39000000
+              "duration": 12000000
             },
             "line": 90,
             "match": {
@@ -1728,7 +1728,7 @@
             "name": "Je clique sur \"MeConnecter\"",
             "result": {
               "status": "passed",
-              "duration": 1138000000
+              "duration": 1058000000
             },
             "line": 91,
             "match": {
@@ -1741,7 +1741,7 @@
             "name": "Je verifie la presence du texte \"Impossible de trouver un compte correspondant à cette adresse e-mail\"",
             "result": {
               "status": "passed",
-              "duration": 1731000000
+              "duration": 1480000000
             },
             "line": 92,
             "match": {
@@ -1815,7 +1815,7 @@
             "name": "",
             "result": {
               "status": "passed",
-              "duration": 2000000
+              "duration": 1000000
             },
             "line": 109,
             "match": {
@@ -1828,7 +1828,7 @@
             "name": "J'accede a la page \"Bureau Valee\"",
             "result": {
               "status": "passed",
-              "duration": 2084000000
+              "duration": 1334000000
             },
             "line": 17,
             "match": {
@@ -1841,7 +1841,7 @@
             "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\"",
             "result": {
               "status": "passed",
-              "duration": 1488000000
+              "duration": 2527000000
             },
             "line": 18,
             "match": {
@@ -1854,7 +1854,7 @@
             "name": "Je clique sur \"BoutonConfirmer\"",
             "result": {
               "status": "passed",
-              "duration": 1087000000
+              "duration": 1648000000
             },
             "line": 19,
             "match": {
@@ -1867,7 +1867,7 @@
             "name": "Je clique sur \"RefuserCookies\"",
             "result": {
               "status": "passed",
-              "duration": 1865000000
+              "duration": 1923000000
             },
             "line": 20,
             "match": {
@@ -1880,7 +1880,7 @@
             "name": "J'attends \"3\" secondes",
             "result": {
               "status": "passed",
-              "duration": 3007000000
+              "duration": 3005000000
             },
             "line": 21,
             "match": {
@@ -1893,7 +1893,7 @@
             "name": "Je verifie que l'element \"Logo\" est affiche",
             "result": {
               "status": "passed",
-              "duration": 17000000
+              "duration": 34000000
             },
             "line": 22,
             "match": {
@@ -1906,7 +1906,7 @@
             "name": "J'attends \"3\" secondes",
             "result": {
               "status": "passed",
-              "duration": 3012000000
+              "duration": 3011000000
             },
             "line": 23,
             "match": {
@@ -1919,7 +1919,7 @@
             "name": "Je verifie que \"ShopPersonnalise\" contient le texte \"Rambouillet\"",
             "result": {
               "status": "passed",
-              "duration": 20000000
+              "duration": 15000000
             },
             "line": 24,
             "match": {
@@ -1932,7 +1932,7 @@
             "name": "J'attends \"3\" secondes",
             "result": {
               "status": "passed",
-              "duration": 3016000000
+              "duration": 3012000000
             },
             "line": 25,
             "match": {
@@ -1987,7 +1987,7 @@
             "name": "Je clique sur \"SlctNomVille\"",
             "result": {
               "status": "passed",
-              "duration": 1052000000
+              "duration": 1048000000
             },
             "line": 27,
             "match": {
@@ -2000,7 +2000,7 @@
             "name": "Je clique sur \"BtnVoirFicheMagazin\"",
             "result": {
               "status": "passed",
-              "duration": 1064000000
+              "duration": 1096000000
             },
             "line": 28,
             "match": {
@@ -2013,7 +2013,7 @@
             "name": "J'attends \"3\" secondes",
             "result": {
               "status": "passed",
-              "duration": 3001000000
+              "duration": 3014000000
             },
             "line": 29,
             "match": {
@@ -2026,7 +2026,7 @@
             "name": "Je verifie la presence du texte \"Magasin Bureau Vallée Rambouillet\"",
             "result": {
               "status": "passed",
-              "duration": 10000000
+              "duration": 15000000
             },
             "line": 30,
             "match": {
@@ -2039,7 +2039,7 @@
             "name": "Je verifie que je suis sur la page \"Page ville\"",
             "result": {
               "status": "passed",
-              "duration": 7000000
+              "duration": 8000000
             },
             "line": 31,
             "match": {
@@ -2065,8 +2065,8 @@
     "id": "check-le-magasin-le-plus-proche",
     "metadata": {
       "browser": {
-        "name": "Chrome Headless",
-        "version": "96.0.4664.110"
+        "name": "Edge",
+        "version": "96.0.1054.62"
       },
       "device": "Device name not known",
       "platform": {
@@ -2113,7 +2113,7 @@
             "name": "",
             "result": {
               "status": "passed",
-              "duration": 2000000
+              "duration": 1000000
             },
             "line": 109,
             "match": {
@@ -2126,7 +2126,7 @@
             "name": "J'accede a la page \"Bureau Valee\"",
             "result": {
               "status": "passed",
-              "duration": 1306000000
+              "duration": 1975000000
             },
             "line": 17,
             "match": {
@@ -2139,7 +2139,7 @@
             "name": "J'ajoute le texte \"78125\" dans le champ \"CodePostal\"",
             "result": {
               "status": "passed",
-              "duration": 1392000000
+              "duration": 2124000000
             },
             "line": 18,
             "match": {
@@ -2152,7 +2152,7 @@
             "name": "Je clique sur \"BoutonConfirmer\"",
             "result": {
               "status": "passed",
-              "duration": 1236000000
+              "duration": 1537000000
             },
             "line": 19,
             "match": {
@@ -2165,7 +2165,7 @@
             "name": "Je clique sur \"RefuserCookies\"",
             "result": {
               "status": "passed",
-              "duration": 1649000000
+              "duration": 1825000000
             },
             "line": 20,
             "match": {
@@ -2178,7 +2178,7 @@
             "name": "J'attends \"3\" secondes",
             "result": {
               "status": "passed",
-              "duration": 3004000000
+              "duration": 3010000000
             },
             "line": 21,
             "match": {
@@ -2191,7 +2191,7 @@
             "name": "Je verifie que l'element \"Logo\" est affiche",
             "result": {
               "status": "passed",
-              "duration": 25000000
+              "duration": 47000000
             },
             "line": 22,
             "match": {
@@ -2204,7 +2204,7 @@
             "name": "J'attends \"3\" secondes",
             "result": {
               "status": "passed",
-              "duration": 3004000000
+              "duration": 3002000000
             },
             "line": 23,
             "match": {
@@ -2217,7 +2217,7 @@
             "name": "Je verifie que \"ShopPersonnalise\" contient le texte \"Rambouillet\"",
             "result": {
               "status": "passed",
-              "duration": 17000000
+              "duration": 10000000
             },
             "line": 24,
             "match": {
@@ -2230,7 +2230,7 @@
             "name": "J'attends \"3\" secondes",
             "result": {
               "status": "passed",
-              "duration": 3013000000
+              "duration": 3012000000
             },
             "line": 25,
             "match": {
@@ -2243,7 +2243,7 @@
             "name": "",
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 0
             },
             "line": 119,
             "match": {
@@ -2285,7 +2285,7 @@
             "name": "Je clique sur \"SlctNomVille\"",
             "result": {
               "status": "passed",
-              "duration": 1056000000
+              "duration": 1058000000
             },
             "line": 27,
             "match": {
@@ -2298,7 +2298,7 @@
             "name": "Je clique sur \"BtnVoirFicheMagazin\"",
             "result": {
               "status": "passed",
-              "duration": 1069000000
+              "duration": 1089000000
             },
             "line": 28,
             "match": {
@@ -2311,7 +2311,7 @@
             "name": "J'attends \"3\" secondes",
             "result": {
               "status": "passed",
-              "duration": 3003000000
+              "duration": 3009000000
             },
             "line": 29,
             "match": {
@@ -2324,7 +2324,7 @@
             "name": "Je verifie la presence du texte \"Magasin Bureau Vallée Rambouillet\"",
             "result": {
               "status": "passed",
-              "duration": 12000000
+              "duration": 25000000
             },
             "line": 30,
             "match": {
@@ -2337,7 +2337,7 @@
             "name": "Je verifie que je suis sur la page \"Page ville\"",
             "result": {
               "status": "passed",
-              "duration": 6000000
+              "duration": 15000000
             },
             "line": 31,
             "match": {
@@ -2363,8 +2363,8 @@
     "id": "check-le-magasin-le-plus-proche",
     "metadata": {
       "browser": {
-        "name": "Edge",
-        "version": "96.0.1054.62"
+        "name": "Chrome Headless",
+        "version": "96.0.4664.110"
       },
       "device": "Device name not known",
       "platform": {

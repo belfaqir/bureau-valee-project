@@ -82,7 +82,7 @@ exports.config = {
                 // Commenter la ligne pour voir l'execution
                 //'--headless',
                 // Arguments chrome necessaires aux tests autos stables
-                "--disable-infobars",
+               /*  "--disable-infobars",
                 "--allow-running-insecure-content",
                 "--disable-background-timer-throttling",
                 "--disable-backgrounding-occluded-windows",
@@ -90,7 +90,7 @@ exports.config = {
                 "--disable-popup-blocking",
                 "--disable-dev-shm-usage",
                 "--disable-gpu",
-                "--window-position=0,0",
+                "--window-position=0,0", */
                 "--window-size=1280,870"
             ]
         },
