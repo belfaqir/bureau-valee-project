@@ -53,7 +53,7 @@ exports.config = {
             args: [
                 // Defintion du mode headless
                 // Commenter la ligne pour voir l'execution
-                '--headless',
+                //'--headless',
                 // Arguments chrome necessaires aux tests autos stables
                 "--disable-infobars",
                 "--allow-running-insecure-content",
@@ -235,6 +235,7 @@ exports.config = {
      */
     before: function (capabilities, specs, browser) {
         browser.url('/')
+        browser.deleteCookies()
     },
     /**
      * Gets executed before the suite starts.
@@ -302,7 +303,10 @@ exports.config = {
      * @param {Array.<Object>} capabilities list of capabilities details
      * @param {Array.<String>} specs List of spec file paths that ran
      */
-    after: function (result, capabilities, specs) { },
+    after: function (result, capabilities, specs) { 
+        browser.deleteCookies()
+
+    },
     /**
      * Gets executed right after terminating the webdriver session.
      * @param {Object} config wdio configuration object
